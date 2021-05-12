@@ -13,4 +13,4 @@ My project uses the CryptoCompare API
 <img src=C:\Users\Shane\Downloads\dataframcoin.jpg width=300>
     
 (this is not the same data set at the dataframe above. I reached a rate limit for the api before this printed)
-<img src=coindisplay.png width=300>
+<img src=C:\Users\Shane\Pictures\coindisplay.png width=300>

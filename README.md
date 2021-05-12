@@ -10,7 +10,7 @@ My project uses the CryptoCompare API
 5. Displays a datafram showing the dates with all the coins and their percentages
     - also shows how many coins went up or down that day by %5 and %10
 
-![Data Frame](img/dataframcoin.jpg)
+![alt text](dataframcoin.jpg)
     
 (this is not the same data set at the dataframe above. I reached a rate limit for the api before this printed)
-![Print](img/coindisplay.png)
+![alt text](coindisplay.png)

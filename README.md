@@ -4,7 +4,7 @@
 
 My project uses the CryptoCompare API
 1. It grabs the top 10 coins for the current day
-2. Get their highest price
+2. Gets their highest price
 3. Compares the price of the coin with the previous price for each day
 4. Counts how many coins rise and fall per day
 5. Displays a datafram showing the dates with all the coins and their percentages
